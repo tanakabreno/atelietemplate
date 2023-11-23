@@ -745,7 +745,7 @@ textarea {
 ::-webkit-scrollbar-thumb {
   background-color: #b50534;
   max-height: 10px;
-  border-radius: 3px;
+  border-radius: 0px;
 }
 
 /*passar o mouse sobre a barra de rolagem */
